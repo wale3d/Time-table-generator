@@ -4,7 +4,7 @@
 #include<strings.h>
 int main()
 {
-	system("color 3");
+	system("color D");
 	int mode,i,j,n;
 	char teachers[20][20],ch;
 	printf("\n\n");
